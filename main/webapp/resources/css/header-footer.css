@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+footer {
+  background-color: rgb(255, 128, 0);
+  text-align: left;
+  padding: 10px;
+}
+
+header {
+  background-color:  rgb(255, 128, 64);
+  text-align: left;
+  padding: 20px;
+}
