@@ -38,7 +38,7 @@
 		<div class="form-group">
 			<label for="password" class="col-sm-2 control-label">Password</label>
 			<div class="col-sm-10">
-				<input type="text" class="form-control" name="password"
+				<input type="password" class="form-control" name="password"
 					placeholder="Enter Password">
 			</div>
 		</div>
